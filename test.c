@@ -1,6 +1,9 @@
  #include<stdio.h
->int main()
+ int main()
 {
 	printf("hellow");
-	return 0
+	printf("heheh");
+	printf("500 days of summerW");	
+	return 0;
 }
+
